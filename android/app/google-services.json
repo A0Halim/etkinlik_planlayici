@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831731966839",
+    "project_id": "etkinlik-planlayici",
+    "storage_bucket": "etkinlik-planlayici.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831731966839:android:a8dc823054815f7e6d3772",
+        "android_client_info": {
+          "package_name": "com.example.etkinlik_planlayici"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ3jgVonpGrjE2l4pn1m05hEMY2BZ35hU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
